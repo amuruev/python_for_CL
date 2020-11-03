@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+#решение классной работы при помощи собственной функции. Оформление в отдельную программу, не в тетради.
+
 paul = """When this film first came out in 1980, I remember going to see it on opening night. 
 This movie just scared the life out of me, which is what still happens every time
 I rent the video for a re-watch.I have seen The Shining at least six or seven times, and I still
